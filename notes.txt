@@ -1,0 +1,56 @@
+React Full Course for free (2024) React tutorial for beginners
+youtube.com/watch?v=CgkZ7MvWUAA
+
+VID_TIME: 4:24/4:43:01 
+
+
+SHELL_OUTPUT:
+
+Martin@DESKTOP-HTLQ9GM /cygdrive/c/users/martin/Documents/Coding/website_tut
+$ git init
+Initialized empty Git repository in C:/Users/Martin/Documents/Coding/website_tut/.git/
+
+Martin@DESKTOP-HTLQ9GM /cygdrive/c/users/martin/Documents/Coding/website_tut
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+Martin@DESKTOP-HTLQ9GM /cygdrive/c/users/martin/Documents/Coding/website_tut
+$
+
+Martin@DESKTOP-HTLQ9GM /cygdrive/c/users/martin/Documents/Coding/website_tut
+$ npm -version
+10.9.0
+
+Martin@DESKTOP-HTLQ9GM /cygdrive/c/users/martin/Documents/Coding/website_tut
+$ npm create vite@latest
+Need to install the following packages:
+create-vite@6.0.0
+Ok to proceed? (y) y
+
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'create-vite@6.0.0',
+npm warn EBADENGINE   required: { node: '^18.0.0 || ^20.0.0 || >=22.0.0' },
+npm warn EBADENGINE   current: { node: 'v21.0.0', npm: '10.9.0' }
+npm warn EBADENGINE }
+
+> npx
+> create-vite
+
+√ Project name: ... my-react-app
+√ Select a framework: » React
+√ Select a variant: » JavaScript
+
+Scaffolding project in C:\users\martin\Documents\Coding\website_tut\my-react-app...
+
+Done. Now run:
+
+  cd my-react-app
+  npm install
+  npm run dev
+
+
+Martin@DESKTOP-HTLQ9GM /cygdrive/c/users/martin/Documents/Coding/website_tut
